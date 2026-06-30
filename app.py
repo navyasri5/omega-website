@@ -403,7 +403,7 @@ page_html = f"""
       <img src="data:image/png;base64,{LOGO_B64}" />
       <div>
         <div class="name">OmegA</div>
-        <div class="sub">Computer Education</div>
+        <div class="sub">Education And Engineering Services pvt.ltd</div>
       </div>
     </div>
     <div class="nav-links">
