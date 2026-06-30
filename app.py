@@ -9,7 +9,7 @@ APP_DIR = Path(__file__).resolve().parent
 LOGO_PATH = APP_DIR / "assets" / "logo.png"
 
 st.set_page_config(
-    page_title="OmegA Computer Education",
+    page_title="OmegA Education And Engineering Services pvt.ltd",
     page_icon=str(LOGO_PATH) if LOGO_PATH.exists() else "🎓",
     layout="wide",
     initial_sidebar_state="collapsed",
